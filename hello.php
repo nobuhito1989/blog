@@ -16,6 +16,7 @@
         <div class="col">
             <p>Hello</p>
         </div>
+        <p>This is a test blog</p>
     </div>
 </body>
 
